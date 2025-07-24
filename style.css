@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Single:wght@100..900&family=Caveat:wght@400..700&family=Great+Vibes&family=Oleo+Script:wght@400;700&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+#spering{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    background: linear-gradient(to right, white, #28b5af);   -webkit-background-clip: text;-webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+#main h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 35px;
+    background: linear-gradient(to right, white, #28b5af);   -webkit-background-clip: text;-webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+#here{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+}
+#here1{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+}
+/* #experience{
+    display: grid;
+    grid-template-columns: auto auto auto;
+} */
+#shadow{
+    box-shadow: 0 10px 15px gray;
+}
+
+
+

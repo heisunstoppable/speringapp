@@ -1,0 +1,62 @@
+@media (min-width: 1024px) {
+    #header{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    main{
+        display: flex;
+    }
+    #main{
+        width: 60%;
+        padding-left: 100px;
+        height: 32rem;
+    }
+    #main-img{
+        width: 40%;
+        height: 32rem;
+    }
+    #main-img img{
+        height: 32rem;
+        width: 100%;
+    }
+    #main h1{
+        font-size: 50px;
+        padding-top: 40px;
+        text-align: justify;
+    }
+    #writes{
+        text-align: justify;
+        margin: 0;
+        font-size: 20px;
+        width: 60%;
+    }
+    #about{
+        margin: 0;
+        margin-top: 30px;
+    }
+    #here{
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 35px;
+    }
+    #experience{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+    #catel{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        width: fit-content;
+    }
+    #catel1{
+        margin-top:0;
+    }
+    #email{
+        width: 100%;
+        max-width: 100%;
+    }
+}
