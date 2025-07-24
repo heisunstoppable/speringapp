@@ -50,10 +50,7 @@
     #catel{
         display: grid;
         grid-template-columns: auto auto auto;
-        width: fit-content;
-    }
-    #catel1{
-        margin-top:0;
+        justify-items: center;
     }
     #email{
         width: 100%;
